@@ -894,6 +894,45 @@
                         }]
                 }],
          "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":321,
+         "image":"..\/..\/..\/Downloads\/Modern_Interiors\/1_Tilesets\/32x32\/Interiors_32x32.png",
+         "imageheight":10720,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Interiors_32x32",
+         "spacing":0,
+         "tilecount":5360,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":40,
+         "firstgid":5681,
+         "image":"..\/..\/..\/Downloads\/Modern_Interiors\/1_Tilesets\/32x32\/Tilesets_32x32.png",
+         "imageheight":1856,
+         "imagewidth":1280,
+         "margin":0,
+         "name":"Tilesets_32x32",
+         "spacing":0,
+         "tilecount":2320,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":8,
+         "firstgid":8001,
+         "image":"..\/..\/..\/Downloads\/Modern_Interiors\/1_Tilesets\/32x32\/Floors_only_32x32.png",
+         "imageheight":768,
+         "imagewidth":256,
+         "margin":0,
+         "name":"Floors_only_32x32",
+         "spacing":0,
+         "tilecount":192,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
